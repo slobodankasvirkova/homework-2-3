@@ -1,0 +1,19 @@
+HTML Homework 2-3 Exercises
+
+1.Create a HTML Page that has one div with a Class and ID, and a Heading, paragraph and Image.
+
+2.Create a HTML Page that has a Form that contains two required inputs, first should be for Full Name, second should be for email,to look like exercise-2.png
+
+3.Create a HTML Page that has a Form that looks like exercise-3.png
+
+4.Create a HTML Page that has a Form that looks like exercise-4.png
+
+5.Create a HTML Page that contains this element exercise-5.png the element should be centered horizontally(use the exercise-5-img for the profile image)
+
+6. Create these Buttons like on exercise-6.jpg
+
+7.Create a HTML Page that has a Form that looks like exercise-7.png
+
+8.Create a HTML Page that has a Table that looks like exercise-8.png
+
+When writing your code don't forget to make the code look readeble, add comments, and don't forget to follow the page structure rules, and Use Classes for CSS!
