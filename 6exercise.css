@@ -1,0 +1,36 @@
+article.art1 {
+    background-color: grey;
+    padding: 50px;
+    text-align: center;
+
+}
+article.art2{
+    background-color: lightcoral;
+    padding: 50px;
+    text-align: center;
+}
+article.art3 {
+    background-color: mediumpurple;
+    padding: 50px;
+    text-align: center;
+}
+button { /* attribute for button */
+    width: 10%;
+    height: 40px;
+    background-color: transparent;
+    border: 2px solid;
+    border-color: whitesmoke;
+    margin: 20px;
+}
+button.group1 {
+    border-radius: 7px; /*changing the border of group 1 buttons */
+    color: black;
+    border-color: black;
+}
+button.group2 {
+border-radius: 30px; /*changing the border of group 2 buttons */
+color: white;
+}
+button.group3 {
+    color: purple; /* setting the text color only foe group 3 buttons */
+}

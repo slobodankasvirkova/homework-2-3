@@ -1,0 +1,16 @@
+article {
+    text-align: center; /* to place the text in the center of the article */
+    margin: auto;
+    width: 300px; 
+    border-top: 5px solid;
+    border-right: 35px solid; /* making the borders diffrent */
+    border-bottom: 15px solid;
+    border-left: 25px solid;
+    border-color: skyblue; /*color of the borders */
+    padding: 25px 15px 80px 15px;
+    
+}
+img{ /* attributes for image */
+    border: 10px solid grey;
+    border-radius: 50%; /* to make the picture round */
+}

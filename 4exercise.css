@@ -1,0 +1,6 @@
+table { /* attributes for the table */
+    background-color: skyblue; /* color of the table */
+} 
+input,textarea,button{
+    background-color: springgreen; /* color of the input,textarea and buttons */
+}

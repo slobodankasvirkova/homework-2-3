@@ -1,0 +1,18 @@
+table { /* attributes for table */
+    text-align: center;
+    margin: auto;
+    width: 300px;
+    border-top: 30px solid;
+    border-right: 20px solid;
+    border-bottom: 30px solid;
+    border-left: 10px solid;
+    border-color: blue;
+}
+td { /* attributes for columns */
+    background-color: white;
+}
+ th { /* attributes for headers */
+    color: white;
+    padding: 4px 50px;
+    background-color: darkslategray;
+}

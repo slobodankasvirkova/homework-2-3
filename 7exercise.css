@@ -1,0 +1,31 @@
+article { /* attributes for article */
+background-color: grey;
+text-align: center;
+border-top: 3px solid;
+border-right: 6px solid;
+border-bottom: 7px solid;
+border-left: 8px solid;
+border-color: beige;
+margin: auto;
+width: 300px;
+padding: 0px 0px 20px 0px;
+}
+input{ /* attributes for input */
+    border: 1px solid;
+    border-color: whitesmoke;
+    width: 85%;
+    height: 25px;
+    margin: 7px;
+    border-radius: 3px;
+    background-color: transparent;
+}
+button { /*attributes for button */
+    width: 85%;
+    height: 25px;
+    margin: 7px;
+    background-color: darkkhaki;
+    color: whitesmoke;
+}
+::placeholder { /*attributes for placeholder */
+    color: whitesmoke;
+}
